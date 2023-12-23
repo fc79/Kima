@@ -1,0 +1,108 @@
+.md{
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
+         @media (min-width :360px) 
+         {
+           
+        .squer{
+            width: 100px;
+            height: 160px;
+            margin-left: 110px;
+        }
+        .squer:hover{
+            box-shadow: 0 1px 10px rgb(63, 63, 63) !important; 
+            transform:scale(1, 1);
+        
+        }
+        
+        .bod{
+            text-align: center;
+            margin-left: 10px;
+        }
+        .header{
+            font-size: 23px;
+            margin-left: 140px;
+        }
+         } 
+         @media (min-width :386px) 
+         {
+           
+        .squer{
+            width: 100px;
+            height: 160px;
+            margin-left: 120px;
+        }
+        .bod{
+            text-align: center;
+            margin-left: 10px;
+        }
+        .header{
+            font-size: 23px;
+            margin-left: 150px;
+        }
+         } 
+  
+         @media (min-width :414px) 
+         {
+           
+        .squer{
+            width: 100px;
+            height: 160px;
+            margin-left: 120px;
+        }
+        .bod{
+            text-align: center;
+            margin-left: -10px;
+        }
+        .header{
+            font-size: 23px;
+            margin-left: 150px;
+        }
+         } 
+  
+         
+         @media (min-width :768px) 
+         {
+           
+        .squer{
+            width: 130px;
+            height: 208px;
+            margin-left: 170px;
+        }
+        .bod{
+            text-align: center;
+            margin-left: 5px;
+            
+        }
+        .header{
+            font-size: 23px;
+            margin-left: 220px;
+        }
+         } 
+  
+        @media (min-width :960px) 
+        {
+          
+        
+        .squer{
+            width: 130px;
+            height: 190px;
+            margin-left: 175px;
+        }
+        .bod{
+            text-align: center;
+            margin-left: 10px;
+        }
+        .header{
+            font-size: 23px;
+            margin-left: 220px;
+        }
+
+
+  }
+
+
+
+    
+
